@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I help Enterprises write their DevOps success stories using GitHub.com
-- I am passionate about creating 🪴 , building 🏗️ and seeing 👀 ideas come to fruition
+- I help Enterprises write their DevOps success stories on GitHub.com
+- I am passionate about creating 🪴 , building 🏗️ and seeing 👀 ideas come to fruition!
 - I would be keen to hear what your DevOps story is! Preferably with a cup of coffee!
 
 ## Fun fact: 🪄
