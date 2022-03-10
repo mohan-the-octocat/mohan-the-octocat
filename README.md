@@ -6,8 +6,8 @@
 
 ### What I am here for
 - Discuss broader industry trends around DevOps and how it helps your digital transformation
--  
-- Wow GitHub.com can be your Enterprise DevOps platform
+- Understand where you are headed in your DevOps journey
+- Explain how GitHub.com can be your Enterprise DevOps platform
 
 
 ## Fun fact: 🪄
